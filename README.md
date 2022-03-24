@@ -3,10 +3,8 @@
 
 ## Social Media
 <a href="https://www.linkedin.com/in/wijubalo">
-    <img alt="LinkedIn" title="LinkedIn" src="assets/linkedin-brands.svg">
+    <img alt="LinkedIn" title="LinkedIn" width="5%" src="assets/linkedin.svg">
 </a>
-
-[![LinkedIn](assets/linkedin-brands.svg)](https://www.linkedin.com/in/wijubalo/)
 
 ## Technologies
 Hi
